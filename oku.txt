@@ -1,0 +1,1 @@
+3 adet veri olduğunu felan buluyor ama içeriğini null getiriyor biraz araştırı mısın 
